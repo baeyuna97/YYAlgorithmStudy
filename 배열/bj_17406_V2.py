@@ -53,7 +53,7 @@ def rotate(arr):
     return new_arr
 
 # 행별 합의 최소값 구하기 
-def min(arr):
+def min_ans(arr):
     return min([sum(y) for y in arr])
 
 # 최종 함수 
@@ -62,6 +62,6 @@ ans = math.inf
 # Query 순서 조합
 for q in [permutations(Q, K)]:
     new_arr = rotate(orgin_A)
-    ans = min(ans, min(new_arr))
+    ans = min(ans, min_ans(new_arr))
 
 print(ans)
