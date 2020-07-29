@@ -1,8 +1,9 @@
-# YYAlgorithmStudy
+# YY_AlgorithmStudy
 Yuna &amp; Yeji
 ## 유나와 예지의 알고리즘 & 자료구조 으쌰으쌰
 
 | channel     | notion  |[notion](https://www.notion.so/Algorithm-study-9e8ebc1d8fcb442d85c4f23b9cbfa8df) |  
+| :--------- | --------- | --------- | 
 | --------- | Yeji's git | [Yeji_git](https://github.com/simba-pumba/YYAlgorithmStudy) |  
 | --------- | FastCampus | 패캠 자료구조와 알고리즘 수강 및 추가 백준 문제 풀이 |  
 
