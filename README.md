@@ -10,7 +10,7 @@ Yuna &amp; Yeji
 | notion  |[notion](https://www.notion.so/Algorithm-study-9e8ebc1d8fcb442d85c4f23b9cbfa8df) |  
 | Yeji's git | [Yeji_git](https://github.com/simba-pumba/YYAlgorithmStudy) |  
 | FastCampus | 패캠 자료구조와 알고리즘 수강 및 추가 백준 문제 풀이 |  
-
+<br>
 
 ### 1주차 
 | Problems    | My_code  |  
