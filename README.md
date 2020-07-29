@@ -8,7 +8,7 @@ Yuna &amp; Yeji
 | Yeji's git | [Yeji_git](https://github.com/simba-pumba/YYAlgorithmStudy) |  
 | FastCampus | 패캠 자료구조와 알고리즘 수강 및 추가 백준 문제 풀이 |  
 
-* 주 2회 (수, 토) 강의 수강 및 문제 풀이 서로 확인 감독 방
+* 주 2회 (수, 토) 강의 수강 및 문제 풀이 서로 확인 감독 방식 진행 
 
 ### 1주차 
 | Problems    | My_code  |  
