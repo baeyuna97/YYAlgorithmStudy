@@ -2,8 +2,8 @@
 Yuna &amp; Yeji
 ## 유나와 예지의 알고리즘 & 자료구조 으쌰으쌰
 
-* 주 2회 (수, 토) 강의 수강 및 문제 풀이 서로 확인 감독 방식 진행 
-Members : yuna bae, yeji lee
+* 주 2회 (수, 토) 강의 수강 및 문제 풀이 서로 확인 감독 방식 진행   
+* Members : yuna bae, yeji lee
 
 | channel     | Link |
 | :--------- | --------- | 
